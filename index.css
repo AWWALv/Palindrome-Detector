@@ -11,6 +11,8 @@ body{
     justify-content: center;
     height: 100vh;
     background-color: rgb(0, 150, 250);
+    touch-action: manipulation;
+
     
 }
 .container{
