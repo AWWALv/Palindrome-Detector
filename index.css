@@ -39,9 +39,9 @@ body{
     border: 1px solid #999;
     border-radius: 5px;
     padding: 0 20px;
-    font-size: 15 px ;
+    font-size: 18 px ;
 }
-.input-section input{
+.input-section input::focus{
     border: 2px solid rgb(0, 150, 250);
 }
 
